@@ -11,6 +11,6 @@ The project is contained in MilikichMidterm1.R, and can be run by simply executi
 Running this code requires that the R packages ggplot2 and forecast be installed.
 
 To run the source code, the following should be included in the same directory (included in this repository):
-- SeaIce.RData
+- `SeaIce.RData`
 
 This project was run using R version 4.0.3.
